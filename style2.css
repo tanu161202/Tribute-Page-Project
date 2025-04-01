@@ -14,7 +14,7 @@ img {
 }
 
 /* VARIABLES */
-:root {
+: root {
 
     /* Background Color */
     --BGCOLOR1: hsla(40, 13%, 95%, 1);
@@ -270,7 +270,7 @@ img {
 }
 
 .fourth__imgcontainer {
-    background-image: url("img/rani-jhansi-regiment.png");
+    background-image: url("indian\ army.png");
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom: 1px solid black;
